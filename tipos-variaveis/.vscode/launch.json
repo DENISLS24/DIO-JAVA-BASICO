@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "testes",
+            "request": "launch",
+            "mainClass": "testes",
+            "projectName": "tipos-variaveis_9597c716"
+        },
+        {
+            "type": "java",
+            "name": "ExemploDoWhile",
+            "request": "launch",
+            "mainClass": "ExemploDoWhile",
+            "projectName": "tipos-variaveis_9597c716"
+        },
+        {
+            "type": "java",
+            "name": "TiposVariaveis",
+            "request": "launch",
+            "mainClass": "TiposVariaveis",
+            "projectName": "tipos-variaveis_9597c716"
+        },
+        {
+            "type": "java",
             "name": "Operadores",
             "request": "launch",
             "mainClass": "Operadores",
